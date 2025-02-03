@@ -4,27 +4,6 @@
 
 <p align="left">A Machine Learning Engineer and Mobile Applications Developer who loves to do research</p>
 
-###
-
-<h2 align="left">Machine Learning Projects</h2>
-
-###
-
-•⁠  ⁠Item One
-•⁠  ⁠Items can also be links
-•⁠  ⁠[Duck Duck Go](https://duckduckgo.com)
-
-###
-
-<h2 align="left">Mobile Development Projects</h2>
-
-###
-
-•⁠  ⁠Item One
-•⁠  ⁠Items can also be links
-•⁠  ⁠[Duck Duck Go](https://duckduckgo.com)
-
-###
 
 <h2 align="left">I use</h2>
 
